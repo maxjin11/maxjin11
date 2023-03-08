@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maxjin11, a grade 11 student from Ontario, Canada.
-- 💪 Status: Enjoying life! Working on solo projects and school.
+- 👋 Hi, I’m @maxjin11, a grade 12 student from Ontario, Canada.
+- 💪 Status: Grinding out school, praying for university admissions.
 
 - 👀 I’m interested in programming, music production, basketball, badminton, and various video games.
 - 🌱 I’m currently learning Java in a high school CS course, and learning Python 3 outside of school.
