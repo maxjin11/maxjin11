@@ -3,7 +3,9 @@
 
 - 👀 I’m interested in programming, music production, basketball, badminton.
 - 🌱 I'm currently learning ReactJS, hoping to improve my front-end skills before moving to the other aspects of the MERN stack. 
-- 😎 List of learned languages: Python, Java, C, Bash Scripting
+- 😎 Languages: Python, Java, C, Bash Scripting, HTML, CSS, Javascript, SQL
+- 🤩 Libraries: OpenCV, Mediapipe, Scikit-Learn, NumPy, NLTK, Requests, BeautifulSoup, Tkinter
+- 😼 Technologies: Git, Linux Terminal, Sublime Text, Pycharm, Netbeans, IntelliJ 
 - 💞️ I’d love to collaborate on projects in order to add to my programming experience.
 - 📫 You can reach me at my email: m24jin@uwaterloo.ca
 
