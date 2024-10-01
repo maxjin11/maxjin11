@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @maxjin11, a UWaterloo Honours Mathematics student (1B/Coop) from Toronto, Canada.
-- 💪 Status: Applying to jobs and working on side projects!
+- 👋 Hi, I’m @maxjin11, a UWaterloo Honours Statistics student (2A) from Toronto, Canada.
+- 💪 Status: Applying to jobs, grinding through school and working on side projects!
 
 - 👀 I’m interested in programming, music production, basketball, badminton.
-- 🌱 I'm currently learning ReactJS, hoping to improve my front-end skills before moving to the other aspects of the MERN stack. 
-- 😎 Languages: Python, Java, C, Bash Scripting, HTML, CSS, Javascript, SQL
-- 🤩 Libraries: OpenCV, Mediapipe, Scikit-Learn, NumPy, NLTK, Requests, BeautifulSoup, Tkinter
-- 😼 Technologies: Git, Linux Terminal, Sublime Text, Pycharm, Netbeans, IntelliJ 
+- 🌱 I'm currently learning ReactJS, hoping to improve my front-end development and designing skills. 
+- 😎 Languages: Python, Java, C, Bash Scripting, HTML, CSS, Javascript/TS, SQL
+- 🤩 Libraries: ReactJS, Tailwind CSS, Firebase/Firestore, Node.js, ExpressJS, OpenCV, Mediapipe, Scikit-Learn, NumPy, NLTK, Requests, BeautifulSoup, Tkinter
+- 😼 Technologies: Git, Azure, Linux Terminal, LaTeX, VSCode 
 - 💞️ I’d love to collaborate on projects in order to add to my programming experience.
 - 📫 You can reach me at my email: m24jin@uwaterloo.ca
 
