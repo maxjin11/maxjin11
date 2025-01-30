@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @maxjin11, a UWaterloo Honours Statistics student (2A) from Toronto, Canada.
-- 💪 Status: Applying to jobs, grinding through school and working on side projects!
+welcome
 
-- 👀 I’m interested in programming, music production, basketball, badminton.
+who am i: @maxjin11, entering 2B in honours statistics @ uwaterloo
+what am i: data analyst @ greenhouse
+where am i: toronto, canada
+
+langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL
+tools: Azure, Power BI/Query/Automate/DAX, Office 365, Git, Vim, LaTeX, Wordpress
+frameworks/libraries: React, Tailwind, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
+
+contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
+
+<!---
+- 👋 Hi, I’m @maxjin11, a UWaterloo Honours Statistics student (2A) from Toronto, Canada.
+- 💪 Status: Currently working as a Data Analyst at Greenhouse
+
+- 👀 I’m interested in programming, music production, basketball, badminton, snowboarding and fitness.
 - 🌱 I'm currently learning ReactJS, hoping to improve my front-end development and designing skills. 
 - 😎 Languages: Python, Java, C, Bash Scripting, HTML, CSS, Javascript/TS, SQL
 - 🤩 Libraries: ReactJS, Tailwind CSS, Firebase/Firestore, Node.js, ExpressJS, OpenCV, Mediapipe, Scikit-Learn, NumPy, NLTK, Requests, BeautifulSoup, Tkinter
 - 😼 Technologies: Git, Azure, Linux Terminal, LaTeX, VSCode 
 - 💞️ I’d love to collaborate on projects in order to add to my programming experience.
 - 📫 You can reach me at my email: m24jin@uwaterloo.ca
+--->
 
 <!---
 maxjin11/maxjin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
