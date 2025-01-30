@@ -1,12 +1,19 @@
 welcome
 
+
 who am i: @maxjin11, entering 2B in honours statistics @ uwaterloo
+
 what am i: data analyst @ greenhouse
+
 where am i: toronto, canada
 
+
 langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL
+
 tools: Azure, Power BI/Query/Automate/DAX, Office 365, Git, Vim, LaTeX, Wordpress
+
 frameworks/libraries: React, Tailwind, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
+
 
 contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
 
