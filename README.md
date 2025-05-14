@@ -1,14 +1,13 @@
 welcome
 
 
-who am i: @maxjin11, entering 2B in honours statistics @ uwaterloo
+who am i: @maxjin11, 2B honours statistics @ uwaterloo
 &nbsp;<br>
-what am i: data analyst @ greenhouse
 &nbsp;<br>
 where am i: toronto, canada
 
 
-langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL
+langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL, R
 &nbsp;<br>
 tools: Azure, Power BI/Query/Automate/DAX, Office 365, Git, Vim, LaTeX, Wordpress
 &nbsp;<br>
