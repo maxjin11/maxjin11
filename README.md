@@ -4,7 +4,7 @@ welcome
 who am i: @maxjin11, 2B honours statistics @ uwaterloo
 &nbsp;<br>
 &nbsp;<br>
-where am i: toronto, canada
+where am i: waterloo, ontario
 
 
 langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL, R
