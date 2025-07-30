@@ -7,11 +7,11 @@ who am i: @maxjin11, 2B honours statistics @ uwaterloo
 where am i: waterloo, ontario
 
 
-langs: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL, R
+languages: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL, R
 &nbsp;<br>
-tools: Azure, Power BI/Query/Automate/DAX, Office 365, Git, Vim, LaTeX, Wordpress
+analyst tools: Azure, Power BI/Query/Automate, DAX, Office 365, Git, Vim, LaTeX, Wordpress
 &nbsp;<br>
-frameworks/libraries: React, Tailwind, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
+frameworks/libraries/tools: React, Tailwind, Next.js, Node.js, Vercel, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
 
 
 contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
