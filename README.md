@@ -11,7 +11,7 @@ languages: Python, Java, C, Bash, HTML/CSS, Javascript/TS, SQL, R
 &nbsp;<br>
 analyst tools: Azure, Power BI/Query/Automate, DAX, Office 365, Git, Vim, LaTeX, Wordpress
 &nbsp;<br>
-frameworks/libraries/tools: React, Tailwind, Next.js, Node.js, Vercel, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
+frameworks/libraries/tools: React, Tailwind, Next.js, Node.js, Three.js, Vercel, Firebase/Firestore, OpenCV, SK-Learn, Numpy, Requests
 
 
 contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
