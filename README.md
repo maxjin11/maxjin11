@@ -2,8 +2,6 @@ welcome
 
 
 who am i: @maxjin11, 3A honours statistics @ uwaterloo
-&nbsp;<br>
-&nbsp;<br>
 
 
 contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
