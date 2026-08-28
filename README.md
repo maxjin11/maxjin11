@@ -1,7 +1,7 @@
 welcome
 
 
-who am i: @maxjin11, 3A honours statistics @ uwaterloo
+who am i: @maxjin11, 3B honours statistics @ uwaterloo
 
 
 contact me: m24jin@uwaterloo.ca or maxjianjin@gmail.com
